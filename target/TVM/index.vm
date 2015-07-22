@@ -1,0 +1,12 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>velocity Hello world</title>
+</head>
+
+<body>
+    #set($a="hello world!")
+    $a
+    #parse("WEB-INF/template/tmp.vm")
+</body>
+</html>

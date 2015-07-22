@@ -1,0 +1,7 @@
+<docType html>
+<html>
+    <head>$map.title</head>
+    <body>
+        $map.body
+    </body>
+</html>

@@ -1,0 +1,6 @@
+#surefire
+#Wed Jul 22 18:29:11 CST 2015
+user.dir=/home/andy/IdeaProjects/TestVM
+idea.version=14.1.4
+localRepository=/home/andy/.m2/repository
+basedir=/home/andy/IdeaProjects/TestVM
